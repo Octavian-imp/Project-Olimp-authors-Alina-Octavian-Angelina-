@@ -1,0 +1,2 @@
+include ':app', ':vhod', ':vhod2'
+rootProject.name='Olimp'
